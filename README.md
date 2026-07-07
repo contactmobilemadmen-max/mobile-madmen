@@ -1,2 +1,2 @@
-# mobile-madmen
-Mobile Madmen - Building Google Sheets Scripts and Templates for Greater Data Centralizing Efficiency.
+# mobilemadmen.com
+Mobile Madmen - GitHub Repository for Google Sheets Scripts and Templates to Centralize Data and Improve Efficiency.
